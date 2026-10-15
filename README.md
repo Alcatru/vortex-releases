@@ -17,7 +17,7 @@ Inside the app, *Vortex settings → Mises à jour → Vérifier les mises à jo
 
 ## Features
 
--- **Sub-Only VOD Bypass (Exclusive):** The first native and autonomous solution on Android to watch sub-only VODs without an external proxy
+- **Sub-Only VOD Bypass (Exclusive):** The first native and autonomous solution on Android to watch sub-only VODs without an external proxy
 - Third-party emotes (BTTV, FFZ, 7TV)
 - Ad blocking
 - Chat enhancements (highlights, spam filter, chat history)
